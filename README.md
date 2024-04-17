@@ -70,7 +70,7 @@ A custom scraper was developed to fetch and standardize news data from various s
 
 ### Deployment
 I deployed the backend using Render, and frontend using Versel.     
-The link is https://mysolutionb-81o6jn5yi-cestlvvies-projects.vercel.app
+The link is https://mysolutionb.vercel.app
 
 #### Personal reflections
 To be honest, this is not my proudest project. Before this, I haven't really delved into web-development, so learning most of the approaches took some time. Also, at first I added search and filter functionalities and only later added web-scraping. But for some reasons, search and filter didn't work with web-scraping, so I decided to delete them.    
