@@ -65,6 +65,7 @@ A custom scraper was developed to fetch and standardize news data from various s
 ### Known Issues
 
 - The scraper might not correctly parse data if the source website's layout changes.
+- The scraper might not display an article if the url changes to "https://tengriauto.kz" or etx based on the type of news.
 - There are no search or filter functionalities.
 - The backend does not cache responses, which could lead to increased load times and redundant server requests.
 
